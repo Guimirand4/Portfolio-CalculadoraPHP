@@ -11,11 +11,7 @@
     $numero2 = 60;
 
     $soma= $numero1 + $numero2;
-
-
-
     ?>
-
     <p>A soma de 25 e 60 é: <?php echo $soma ?></p>
 </body>
 </html>

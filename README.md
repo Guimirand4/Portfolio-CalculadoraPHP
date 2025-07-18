@@ -1,22 +1,34 @@
-🧮 Calculadora Simples em PHP
-Projeto de uma calculadora web desenvolvida com PHP, que permite realizar operações básicas de forma prática e rápida através de uma interface simples.
+🧮 Simple Calculator in PHP
 
-📚 Sobre o Projeto
-Esta aplicação web implementa uma calculadora que realiza as quatro operações matemáticas fundamentais: adição, subtração, multiplicação e divisão.
-O projeto foi criado para praticar lógica de programação em PHP, manipulação de formulários e interação cliente-servidor.
+A web calculator project developed with PHP, allowing users to perform basic operations quickly and easily through a simple interface.
 
-🚀 Funcionalidades
-➕ Soma de dois números
+📚 About the Project
 
-➖ Subtração de dois números
+This web application implements a calculator capable of performing the four fundamental math operations: addition, subtraction, multiplication, and division.
+The project was created to practice PHP programming logic, form handling, and client-server interaction.
 
-✖️ Multiplicação de dois números
+🚀 Features
 
-➗ Divisão de dois números
+➕ Addition of two numbers
 
-🖥️ Interface limpa, responsiva e funcional (HTML + CSS)
+➖ Subtraction of two numbers
 
-⚡ Processamento rápido via PHP no servidor
+✖️ Multiplication of two numbers
 
-⚙️ Tecnologias Utilizadas
-<div style="display: flex; flex-wrap: nowrap; align-items: center;"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> </div>
+➗ Division of two numbers
+
+🖥️ Clean, responsive, and functional interface (HTML + CSS)
+
+⚡ Fast processing via PHP on the server side
+
+⚙️ Technologies Used
+<div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 8px;"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </div>
+
+
+
+
+
+
+
+
+Perguntar ao ChatGPT
